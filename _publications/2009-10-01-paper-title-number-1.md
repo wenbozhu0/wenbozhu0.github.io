@@ -6,7 +6,6 @@ excerpt: '2021 5th International Conference on Artificial Intelligence and Virtu
 date: 2021-07-23
 venue: '2021 5th International Conference on Artificial Intelligence and Virtual Reality (AIVR)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3480433.3480442'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 [Download paper here](https://dl.acm.org/doi/abs/10.1145/3480433.3480442)
