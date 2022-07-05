@@ -69,8 +69,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.linkedin.com/in/wenbo-zhu-158962215/"
-    - "https://github.com/Wen-bo-Zhu"
+    #- "https://www.linkedin.com/in/wenbo-zhu-158962215/"
+    #- "https://github.com/Wen-bo-Zhu"
 
 # Analytics
 analytics:
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/wenbozhu0"
+  github           : "wenbozhu0"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/wenbo-zhu-158962215/"
+  linkedin         : "/wenbo-zhu-158962215/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "https://steamcommunity.com/profiles/76561198254890083"
+  steam            : "profiles/76561198254890083"
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
