@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a currently graduate student in the Department of Computer Science at University of Chicago. I received my Bachelor’s Degree in Computer Science and Psychology at New York University (2022). Under my undergraduate research advisors Prof. Jean Claude Frachiiti, I centered around work in distributed system and data scheduling.
+I am a currently graduate student in the Department of Computer Science at University of Chicago. I received my Bachelor’s Degree in Computer Science and Psychology at New York University (2022). Under my undergraduate research advisor Prof. Jean Claude Frachiiti, I centered around work in distributed system and data scheduling.
 
 My current research interests include operating systems, machine learning and cloud computing. I joined the UCARE research group and was fortunate to be advised by Prof. Haryadi S. Gunawi. Lately, I’m working on improving storage for machine learning training workloads on GPUs. I try to find optimization solutions to improve GPU utilization in deep learning training and verify the effectiveness of solutions with both simulations and testbed evaluation. 
 
