@@ -14,6 +14,6 @@ My current research interests include operating systems, machine learning and cl
 
 Previously, I have been working on sentiment analysis of the COVID-19 vaccine on Twitter. I try to analyze tweets to grasp the efficency of the vaccine from public opinion. Also, Proposing novel problem in distributed systems and developing scheduling algorithms and architectures to address them. Other areas of active interest include reinforcement learning with natural language and hierarchical reinforcement learning.
 
-I am interested in cloud computing/distributed systems where my research focuses on improving the reliability, availability and scalability of cloud systems by detecting distributed concurrency bugs
+I am interested in cloud computing/distributed systems where my research focuses on improving the reliability, availability and scalability of cloud systems by detecting distributed concurrency bugs.
 
 Outside of research I spend my time playing sports with friends (🎿,⛰️,🏸,🏀,🏐,🏃), travelling, or reading books.
